@@ -1,4 +1,4 @@
-Real-Time Wikipedia Edit Stream Processor - Setup GuideThis guide outlines the steps to set up and run the Django project for processing real-time English Wikipedia edits.1. PrerequisitesYou must have Python 3.8+ installed.2. Project SetupA. Create Virtual Environment and Install Dependencies# Create and activate environment
+Create Virtual Environment and Install Dependencies# Create and activate environment
 python3 -m venv venv
 source venv/bin/activate
 
